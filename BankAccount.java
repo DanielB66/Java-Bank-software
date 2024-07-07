@@ -1,5 +1,3 @@
-// דניאל בן עמי ת.ז 313577140
-
 public abstract class BankAccount {
     private static int nextAccountNumber = 1000;
     
