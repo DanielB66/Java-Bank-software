@@ -1,5 +1,3 @@
-// דניאל בן עמי ת.ז 313577140
-
 import java.sql.Time;
 import java.util.ArrayList;
 
